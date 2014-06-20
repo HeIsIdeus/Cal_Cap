@@ -1,12 +1,12 @@
 Cal:
 The Unit 1 capstone for this course is the implementation of a subset of the Unix program, cal.
-
+===================
 Objectives:
 
 *Practice with Arrays, Hashes, and Strings
 *Develop the logic of a non-trivial algorithm
 *Programming to meet a (changing) specification
-
+===================
 Requirements:
 Your program must have tests. These test may be as high-level (integration tests) or as low-level (unit tests) as you wish. I highly recommend a mix of tests.
 
@@ -17,3 +17,4 @@ Your program must have tests. These test may be as high-level (integration tests
 
 As a capstone project, this should demonstrate your skills. Do not share code with your peers. You can help each other think about the problems, but don't help each other code.
 Your program should accept any combination of months and years between 1800 and 3000.
+===================
